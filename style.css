@@ -1,0 +1,92 @@
+/*html {
+    height: 100%;   
+}*/
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header{
+    height:120px;
+    text-align:center;
+}
+
+body {
+    background-image: url(images/background-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: grey;
+
+}
+
+nav {
+    background-color:rgba(255, 106, 0,0.233);
+   /* background-color:rgba(0, 0, 0,0.233);*/
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    height: 300px;
+    text-align:center;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+article {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding-bottom: 20px;
+}
+
+
+footer {
+    background-color:rgba(141, 62, 6, 0.13);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-bottom: 5px;
+   
+}
+
+footer p {
+    text-align: center;
+    color: #c4c0c0;
+}
+h1{
+    font-size: 84px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    margin-top: 100px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.map {
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:230px;
+    padding-top:30px;
+    padding-bottom:15px;
+}
+
+.insideKitchen {
+    padding-left: 210px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
